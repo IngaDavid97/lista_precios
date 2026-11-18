@@ -108,19 +108,19 @@
     "codigo": "AUTEK0015",
     "descripcion": "AUTTEK ISO 68 CANECA AW FLUXAR",
     "marca": "AUTEK",
-    "precio": 78.75,
-    "base": 68.48
+    "precio": 82.76,
+    "base": 71.97
   },
   {
     "codigo": "AUTEK0016",
     "descripcion": "AUTTEK ISO 68 TANQUE AW FLUXAR",
     "marca": "AUTEK",
-    "precio": 813.63,
-    "base": 707.51
+    "precio": 869.49,
+    "base": 756.08
   },
   {
     "codigo": "AUTEK0017",
-    "descripcion": "AUTTEK  SAE 140 CANECA CLASSIC GL-4",
+    "descripcion": "AUTTEK SAE 140 CANECA CLASSIC GL-4",
     "marca": "AUTEK",
     "precio": 93.55,
     "base": 81.35
@@ -136,8 +136,8 @@
     "codigo": "AUTEK0019",
     "descripcion": "AUTTEK 80W90 CANECA CLASSIC GL-4",
     "marca": "AUTEK",
-    "precio": 90.11,
-    "base": 78.36
+    "precio": 94.11,
+    "base": 81.83
   },
   {
     "codigo": "AUTEK0020",
@@ -150,8 +150,8 @@
     "codigo": "AUTEK0021",
     "descripcion": "AUTTEK SAE 90 CANECA CLASSIC GL.4",
     "marca": "AUTEK",
-    "precio": 72.71,
-    "base": 63.23
+    "precio": 87.12,
+    "base": 75.76
   },
   {
     "codigo": "AUTEK0022",
@@ -171,8 +171,8 @@
     "codigo": "AUTEK0024",
     "descripcion": "AUTTEK TRACTOR FLUID CANECA UNI",
     "marca": "AUTEK",
-    "precio": 71.43,
-    "base": 62.11
+    "precio": 93.02,
+    "base": 80.89
   },
   {
     "codigo": "AUTEK0025",
@@ -206,8 +206,8 @@
     "codigo": "AUTEK0029",
     "descripcion": "AUTTEK 15W40 TANQUE PRIME EVOLUTION CI-4+/SL",
     "marca": "AUTEK",
-    "precio": 707.33,
-    "base": 615.07
+    "precio": 1002.51,
+    "base": 871.75
   },
   {
     "codigo": "AUTEK0030",
@@ -220,15 +220,15 @@
     "codigo": "AUTEK0031",
     "descripcion": "AUTTEK 10W30 1/4 SEMI-SINTETICO EVOLUX API SQ",
     "marca": "AUTEK",
-    "precio": 5.9,
-    "base": 5.13
+    "precio": 5.75,
+    "base": 5
   },
   {
     "codigo": "AUTEK0032",
     "descripcion": "AUTTEK 10W30 GL SEMI-SINTETICO EVOLUX API SQ",
     "marca": "AUTEK",
-    "precio": 19.9,
-    "base": 17.3
+    "precio": 20.34,
+    "base": 17.69
   },
   {
     "codigo": "AUTEK0033",
@@ -248,15 +248,15 @@
     "codigo": "AUTEK0035",
     "descripcion": "AUTTEK SAE 40 1/4 HARD PLUS API CF/SL",
     "marca": "AUTEK",
-    "precio": 4.39,
-    "base": 3.82
+    "precio": 5.29,
+    "base": 4.6
   },
   {
     "codigo": "AUTEK0036",
     "descripcion": "AUTTEK SAE 40 GL HARD PLUS API CF / SL",
     "marca": "AUTEK",
-    "precio": 15.83,
-    "base": 13.76
+    "precio": 18.61,
+    "base": 16.19
   },
   {
     "codigo": "AUTEK0037",
@@ -311,22 +311,22 @@
     "codigo": "AUTEK0044",
     "descripcion": "AUTTEK 75W85 1/4 FORGEX API GL-5",
     "marca": "AUTEK",
-    "precio": 5.95,
-    "base": 5.18
+    "precio": 6.1,
+    "base": 5.3
   },
   {
     "codigo": "AUTEK0045",
     "descripcion": "AUTTEK 75W85 GL FORGEX API GL-5",
     "marca": "AUTEK",
-    "precio": 21.3,
-    "base": 18.52
+    "precio": 22.33,
+    "base": 19.42
   },
   {
     "codigo": "AUTEK0046",
     "descripcion": "AUTTEK 75W85 1/4 CLASSIC API GL-4",
     "marca": "AUTEK",
-    "precio": 5.78,
-    "base": 5.03
+    "precio": 5.92,
+    "base": 5.15
   },
   {
     "codigo": "AUTEK0047",
@@ -339,15 +339,15 @@
     "codigo": "AUTEK0048",
     "descripcion": "AUTTEK 75W90 1/4 CLASSIC API GL-4",
     "marca": "AUTEK",
-    "precio": 4.61,
-    "base": 4.01
+    "precio": 5.74,
+    "base": 4.99
   },
   {
     "codigo": "AUTEK0049",
     "descripcion": "AUTTEK 75W90 GL CLASSIC API GL-4",
     "marca": "AUTEK",
-    "precio": 16.82,
-    "base": 14.63
+    "precio": 20.39,
+    "base": 17.73
   },
   {
     "codigo": "AUTEK0050",
@@ -437,29 +437,29 @@
     "codigo": "AUTEK0069",
     "descripcion": "AUTTEK 75W90 CANECA CLASSIC GL-4",
     "marca": "AUTEK",
-    "precio": 79.67,
-    "base": 69.28
+    "precio": 89.23,
+    "base": 77.6
   },
   {
     "codigo": "AUTEK0070",
     "descripcion": "AUTTEK 25W60 CANECA MEGA POWER API CF-4/SG",
     "marca": "AUTEK",
-    "precio": 76.18,
-    "base": 66.24
+    "precio": 89.5,
+    "base": 77.83
   },
   {
     "codigo": "AUTEK0071",
     "descripcion": "AUTTEK 25W60 1/4 MEGA POWER API CF-4/SL",
     "marca": "AUTEK",
-    "precio": 5.18,
-    "base": 4.5
+    "precio": 5.65,
+    "base": 4.91
   },
   {
     "codigo": "AUTEK0072",
     "descripcion": "AUTTEK 25W60 GL MEGA POWER  API CF-4/SL",
     "marca": "AUTEK",
-    "precio": 17.62,
-    "base": 15.32
+    "precio": 20.01,
+    "base": 17.4
   },
   {
     "codigo": "AUTEK0073",
@@ -546,6 +546,20 @@
     "base": 71.73
   },
   {
+    "codigo": "AUTEK0085",
+    "descripcion": "AUTTEK 10W40 4T 1/4 EXOLUX API SL/JASO",
+    "marca": "AUTEK",
+    "precio": 5.75,
+    "base": 5
+  },
+  {
+    "codigo": "AUTEK0086",
+    "descripcion": "AUTTEK 80W90 TANQUE API GL-5",
+    "marca": "AUTEK",
+    "precio": 1015.43,
+    "base": 882.98
+  },
+  {
     "codigo": "AUTEK01K80",
     "descripcion": "AUTTEK AIRE 1109101-K80 GREAT WALL HAVAL H5 12-12/, HAVAL H-3 2.0 11-12, MITSUBISHI MONTERO 92-99/ TEC0031 / SUPKK80 / NOVA0023 / RED0002",
     "marca": "AUTEK",
@@ -581,6 +595,13 @@
     "base": 2.43
   },
   {
+    "codigo": "AUTEK0BU02",
+    "descripcion": "AUTTEK AIRE 1109190BU02 PGT LANDTREK-CHNGN HUNTER 1.9CCT 2022-2023 CR: UK39700/SA31013-SAMURY/ UK39700  /AF39700",
+    "marca": "AUTEK",
+    "precio": 4.69,
+    "base": 4.08
+  },
+  {
     "codigo": "AUTEK0C010",
     "descripcion": "AUTTEK AIRE  17801-0C010 TOYOTA HI-LUX V VTI,MAZDA BT-50 DIESEL / STP7617 / VOR0C010 / AP-C010E / A2180 / AIP651 / AF26501/ DA2995 / RED0009 / ULT6063 / NOVA0057",
     "marca": "AUTEK",
@@ -596,7 +617,7 @@
   },
   {
     "codigo": "AUTEK0L010",
-    "descripcion": "AUTTEK DIESEL 23390-0L010 / 23390-0L041/ F1111 CHEVROLET D-MAX 3.0T CRDI (14-20), D-MAX 2.5T CRDI (20-23); ISUZU PICK UP 3.0T TD (26->); JIM RE-MAX 2.5T T , TOYOTA HILUX 2.7, MITSUBISHI L200/ F1111",
+    "descripcion": "AUTTEK DIESEL 23390-0L010 / 23390-0L041/ F1111 CHEVROLET D-MAX 3.0T CRDI (14-20), D-MAX 2.5T CRDI (20-23); ISUZU PICK UP 3.0T TD (26->); JIM RE-MAX 2.5T T , TOYOTA HILUX 2.7, MITSUBISHI L200/ F1111 / KUB26670 / MOTF1111 / MOTF1190 / SHOF1111",
     "marca": "AUTEK",
     "precio": 2.25,
     "base": 1.96
@@ -616,6 +637,13 @@
     "base": 3.47
   },
   {
+    "codigo": "AUTEK0X000",
+    "descripcion": "AUTTEK AIRE 28113-0X000 HDY I10 1.1 08 2010 PANELADO / KUB25849 / NOVA0037 / REC020004 / RED0010 / ULT7061 / MA3500  / TEC0042",
+    "marca": "AUTEK",
+    "precio": 2.96,
+    "base": 2.58
+  },
+  {
     "codigo": "AUTEK10P64",
     "descripcion": "AUTTEK AIRE 1109110-P64 GREAT WALL WINGLE 5 2.0T (19-20), WINGLE 7 2.0T (20-22) / OEM:1109110-P64  / RED9110 / SAMSA39050",
     "marca": "AUTEK",
@@ -624,7 +652,7 @@
   },
   {
     "codigo": "AUTEK12020",
-    "descripcion": "AUTTEK AIRE 1109N12-020 BEIBEN 2542S -KITGOLDEN DRAGON BUS INTERNO Y EXTERNO /1109N12-020+1109N12-030/MOTA8645+MOTA8646/ SA3046",
+    "descripcion": "AUTTEK AIRE 1109N12-020 BEIBEN 2542S -KIT GOLDEN DRAGON BUS INTERNO Y EXTERNO /1109N12-020+1109N12-030 / R000001 + R000002 / SA3046",
     "marca": "AUTEK",
     "precio": 33.9,
     "base": 29.48
@@ -679,6 +707,13 @@
     "base": 6.88
   },
   {
+    "codigo": "AUTEK1730",
+    "descripcion": "AUTTEK DIESEL 23401-1730 / SF1307 HINO SERIE 500 FC9JJSA, GD-GH (2011/2014) -SERIE BUS AK8JRSA (2014/-)/SF1307 /23304-EV140// 23304-EV083 / 2340-11730 / FF1710T",
+    "marca": "AUTEK",
+    "precio": 4.28,
+    "base": 3.72
+  },
+  {
     "codigo": "AUTEK1833",
     "descripcion": "AUTTEK AIRE 9041833 CHEVROLET SAIL (12-16) / OJI1833 / SAMSA2217 / ULT6059 / AIP876 / RED0069 / NOVA0064 / SHOBAU2180C / MIL12968",
     "marca": "AUTEK",
@@ -708,10 +743,17 @@
   },
   {
     "codigo": "AUTEK1974",
-    "descripcion": "AUTTEK COMBUSTIBLE 25121974 CHEVROLET LUV 2.2, VAN N200 1.2 (10-14), VAN N300 1.2 (12-19), TROOPER, RODEO, GREAT WALL H3 Y H5 2.0 Y 2.4 (12-17), WINGLE /FRL047/14080MF2021",
+    "descripcion": "AUTTEK COMBUSTIBLE 25121974 CHEVROLET LUV 2.2, VAN N200 1.2 (10-14), VAN N300 1.2 (12-19), TROOPER, RODEO, GREAT WALL H3 Y H5 2.0 Y 2.4 (12-17), WINGLE /FRL047/14080MF2021 / 1105010-D01",
     "marca": "AUTEK",
     "precio": 1.51,
     "base": 1.31
+  },
+  {
+    "codigo": "AUTEK1C000",
+    "descripcion": "AUTTEK AIRE 28113-1C000 HDY GETZ 1.3 / OEM: 28113-1C000 / ULT6440 /MA2823 / SA066",
+    "marca": "AUTEK",
+    "precio": 3,
+    "base": 2.61
   },
   {
     "codigo": "AUTEK1G000",
@@ -752,8 +794,8 @@
     "codigo": "AUTEK2051",
     "descripcion": "AUTTEK ACEITE 15607-2051 HINO FD,FC (FM 2011), GH,HINO AK /C1314/2051/P552050",
     "marca": "AUTEK",
-    "precio": 6.59,
-    "base": 5.73
+    "precio": 7.17,
+    "base": 6.23
   },
   {
     "codigo": "AUTEK21030",
@@ -768,6 +810,13 @@
     "marca": "AUTEK",
     "precio": 2.15,
     "base": 1.87
+  },
+  {
+    "codigo": "AUTEK21060",
+    "descripcion": "AUTTEK AIRE 17801-21060 TOYOTA PRIUS 2013; TYT C-HR 2016 COROLLA HYBRID 2021 / RED0030 / VOR21060 / BA1046C / TEC0050",
+    "marca": "AUTEK",
+    "precio": 2.85,
+    "base": 2.48
   },
   {
     "codigo": "AUTEK22600",
@@ -785,7 +834,7 @@
   },
   {
     "codigo": "AUTEK2519",
-    "descripcion": "AUTTEK AIRE WG9725191102 TRACTO SINOTRUK V2 371 V3 290 T A7 336 T A7 420 /WG9725191102/MOTA9009/ SA2841",
+    "descripcion": "AUTTEK AIRE WG9725191102 SINOTRUK HOWO T7H MC13 CNHTC MC11 /WG9725191102 / A38910 / P635977 / R003668 / SA2841",
     "marca": "AUTEK",
     "precio": 21.19,
     "base": 18.43
@@ -826,11 +875,25 @@
     "base": 2.5
   },
   {
+    "codigo": "AUTEK2J000",
+    "descripcion": "AUTTEK ACEITE 26350-2J000 HYD TUCSON NX4E,SONATA,KIA SPORTAGE NQ5 2023 / EO28170 / P1099 / SAMSO0160 / OEM: 26350 -2J000/ MO3502",
+    "marca": "AUTEK",
+    "precio": 3.16,
+    "base": 2.75
+  },
+  {
     "codigo": "AUTEK2K000",
     "descripcion": "AUTTEK AIRE 28113-2K000 HYD VERNA 1.4 (20-21); HYD I20 (10-12); KIA SOLUTO 1.4 (20-21), KIA SOUL(10-20) /SA10699 /A28620 / PAB10699 /  28113-4X000 / MK",
     "marca": "AUTEK",
     "precio": 2.23,
     "base": 1.94
+  },
+  {
+    "codigo": "AUTEK2M000",
+    "descripcion": "AUTTEK ACEITE 26350-2M000 HYUNDAI CRETA 1.5 (22-23); KIA CARENS 1.5 (23->), SONET 1.5 (22-23) / OEM: 26330-2M000 / 26350-2M000 / P1083 / EO29060 / SHOBCE287/SH152SHOGUN / SO0152",
+    "marca": "AUTEK",
+    "precio": 2.75,
+    "base": 2.39
   },
   {
     "codigo": "AUTEK2S000",
@@ -987,6 +1050,13 @@
     "base": 1.91
   },
   {
+    "codigo": "AUTEK58B00",
+    "descripcion": "AUTTEK AIRE 13780-58B00 CHEVROLET VITARA 1.6 5 PUERTAS INY. 2000-12 /CHE-0010 / ULT6432/AF7870/NOVA0070 /TEC0032 / MA4330",
+    "marca": "AUTEK",
+    "precio": 3.39,
+    "base": 2.95
+  },
+  {
     "codigo": "AUTEK5H000",
     "descripcion": "AUTTEK AIRE 28130-5H000 HYUN HD72 HD65 HD555- COUNTY, CAMIONES TURBP INTERCOOLER 2001, KIA COMBI 3000 / PABS008 /MOTA2813 / SHORBA274",
     "marca": "AUTEK",
@@ -1013,6 +1083,13 @@
     "marca": "AUTEK",
     "precio": 3.15,
     "base": 2.74
+  },
+  {
+    "codigo": "AUTEK64J00",
+    "descripcion": "AUTTEK CABINA 95861 - 64J00 CHV SUZUKI GRAND VITARA SZ 09-16  / CA14051 / SPHB5853 / KUB25085 / ULT3001 /95861-64J10/ CA14051SHOGUN",
+    "marca": "AUTEK",
+    "precio": 2.53,
+    "base": 2.2
   },
   {
     "codigo": "AUTEK65D00",
@@ -1079,7 +1156,7 @@
   },
   {
     "codigo": "AUTEK76100",
-    "descripcion": "AUTEK AIRE 13780-76100 SUZUKI SWIFT 1.2 2025-----",
+    "descripcion": "AUTEK AIRE 13780-76100 SUZUKI SWIFT 1.2 2025-----/SA27080",
     "marca": "AUTEK",
     "precio": 4.02,
     "base": 3.49
@@ -1176,11 +1253,32 @@
     "base": 2.75
   },
   {
+    "codigo": "AUTEK97133G6000",
+    "descripcion": "AUTTEK CABINA 97133-G6000 NEW KIA PICANTO X LINE 1.2 (18-21) /  /MOTC3360 / SPHB18009",
+    "marca": "AUTEK",
+    "precio": 2.59,
+    "base": 2.25
+  },
+  {
+    "codigo": "AUTEK9858",
+    "descripcion": "AUTTEK CABINA 9029858 CHEVROLET SAIL 1 5 VVT 18 19 CAVALIER 1 5 VVT 18 21 / 9029858 / SILVC503 / SPHB9826B /CA65310/KUB24407 / MC5310",
+    "marca": "AUTEK",
+    "precio": 2.91,
+    "base": 2.53
+  },
+  {
     "codigo": "AUTEKA0100",
     "descripcion": "AUTTEK AIRE 28113-A0100 HDY CRETA 2017 / RED0078 / NOVA0040 / TEC0027 / MOTA4480 / SAMSA11053",
     "marca": "AUTEK",
     "precio": 2.97,
     "base": 2.58
+  },
+  {
+    "codigo": "AUTEKA1307",
+    "descripcion": "AUTTEK AIRE 1-14215085-0 / A1307 HINO GD MOD. 2000, HINO AK MOD. 2011 SECUNDARIO/ CA23460SY/ A1307 /MOTA2460 / OEM 1-14215085-0 /SA1344",
+    "marca": "AUTEK",
+    "precio": 8.22,
+    "base": 7.15
   },
   {
     "codigo": "AUTEKA28820",
@@ -1211,11 +1309,53 @@
     "base": 2.31
   },
   {
+    "codigo": "AUTEKC1304",
+    "descripcion": "AUTTEK ACEITE 15607-1731 / C1304 HINO FD FF, GD /4285963 GH/FC/A3786/C012/P552050/LF3618/",
+    "marca": "AUTEK",
+    "precio": 8.5,
+    "base": 7.39
+  },
+  {
+    "codigo": "AUTEKC1512",
+    "descripcion": "AUTTEK ACEITE 2-90654600-0 / C1522 CHEVROLET NPR (2000/- >) - NNR - NQR (2010/->)/C1522/ P550973/ LF3622 / 8-97148280-0/FO4544 C",
+    "marca": "AUTEK",
+    "precio": 7.45,
+    "base": 6.48
+  },
+  {
+    "codigo": "AUTEKC1516",
+    "descripcion": "AUTTEK ACEITE 8-94360427-0 / C1516 CHEVROLET NHR - NKR (2001/->) MOTOR 4JB1-TC/C1516/ BD7160 / PAR4271C1516;8-94360427-0/ 8-94360427-1/FO4501",
+    "marca": "AUTEK",
+    "precio": 3.23,
+    "base": 2.8
+  },
+  {
     "codigo": "AUTEKC3585",
     "descripcion": "AUTTEK AIRE C3585 CITROEN C-ELYSÉE 2012, BERLINGO II 2018 2004, C3 II 2011, C4, PEUGEOT 2016, 3008, 301 DIESEL, 208, 207, 2008 / REDC3585 / NOVA0055",
     "marca": "AUTEK",
     "precio": 3.1,
     "base": 2.7
+  },
+  {
+    "codigo": "AUTEKC4903",
+    "descripcion": "AUTTEK ACEITE 000020316E05 / C4903 MAHINDRA PICK UP 2.2 CRDI (13-18); JAC HFC 1040K, 1045 /C4903 / PH2801 /P550934 / SPH3903B",
+    "marca": "AUTEK",
+    "precio": 3.33,
+    "base": 2.9
+  },
+  {
+    "codigo": "AUTEKC5504",
+    "descripcion": "AUTTEK ACEITE 1R0734 / C5504 CATERPILLAR; JAC HCX-36 CABEZA DE DADO / PH2829 / LFP54 / LF654 NEW HOLAND / PARA48SP/ P555680 /C5504 / FO4934 / LF654",
+    "marca": "AUTEK",
+    "precio": 4.98,
+    "base": 4.33
+  },
+  {
+    "codigo": "AUTEKC6204",
+    "descripcion": "AUTTEK ACEITE 01160025 / C6204 JHON DEERE DEUTZ/MERCEDEZ / LFP2222 / PSL962 /P553771/LF4054 /DOOSAN 400504-00005/  C6204 / 0024164103",
+    "marca": "AUTEK",
+    "precio": 5.28,
+    "base": 4.59
   },
   {
     "codigo": "AUTEKC7000",
@@ -1225,11 +1365,81 @@
     "base": 2.54
   },
   {
+    "codigo": "AUTEKD3000",
+    "descripcion": "AUTTEK CABINA 97133-D3000 HYUNDAI TUCSON 2017. 2.0CC,KIA STONIC,CARENS 1.5CC 2023 / CA28380 / VC515 /ACP108 / RED0141 / MC83236 / OEM: 97133-D3000 / SAMSPHB1080/ MC9713",
+    "marca": "AUTEK",
+    "precio": 2.85,
+    "base": 2.48
+  },
+  {
     "codigo": "AUTEKD3300",
     "descripcion": "AUTTEK AIRE 28113-D3300 TUCSON TL 2.0 2017 GAS, JAC S7 2.0 CC/ SA2021/ BAH123",
     "marca": "AUTEK",
     "precio": 2.8,
     "base": 2.44
+  },
+  {
+    "codigo": "AUTEKEV030",
+    "descripcion": "AUTTEK DIESEL 23304-EV030 /EF1802 HINO GD GH 2011, HINO 500 (FC) EURO 3 2004-2009 AK (SEC: F1507) / EF1802",
+    "marca": "AUTEK",
+    "precio": 3.38,
+    "base": 2.94
+  },
+  {
+    "codigo": "AUTEKF2000",
+    "descripcion": "AUTTEK CABINA 97133-F2000 KIA CERATO 1.6 2021-24 RIO X LINE GT LINE 5 1.4 2017-24 SELTOS 1 / BAC825 / 97133F2000 / KUB31770 / CA28261/97133-F2100/ MC3320",
+    "marca": "AUTEK",
+    "precio": 2.23,
+    "base": 1.93
+  },
+  {
+    "codigo": "AUTEKFC1104",
+    "descripcion": "AUTTEK DIESEL 23303-64010 /SFC190 TOYOTA DYNA 300 400, URVAN, SPORTERO, NAVARA, MAZDA BT50 2.0 Y 2.5 CRDI (08-15), MITSUBISHI L200 2.5 DI-D (07-12), NATIVA 3.2 DI-D/ 23303-64010 / 23303-64020 / SFC190 / FC1104",
+    "marca": "AUTEK",
+    "precio": 3.43,
+    "base": 2.98
+  },
+  {
+    "codigo": "AUTEKFC1501",
+    "descripcion": "AUTTEK DIESEL 5132000530 / FC1501 CHEVROLET DMAX 2 5 04 13 Y 3 0 04 15 DIESEL ISUZU NHR 01 09 NKR 01 09 NPR 3 9 98 99 / FC1501/ FC035/ FF5138/ VF202 / -5132000530-16403-J5500",
+    "marca": "AUTEK",
+    "precio": 2.5,
+    "base": 2.17
+  },
+  {
+    "codigo": "AUTEKFC1511",
+    "descripcion": "AUTTEK DIESEL 8-97288947-0 / FC1511 SEPARADOR CHV DMAX/ FC1511 / OEM 8-97288947-0 / VF201",
+    "marca": "AUTEK",
+    "precio": 3.28,
+    "base": 2.85
+  },
+  {
+    "codigo": "AUTEKFC5704",
+    "descripcion": "AUTTEK DIESEL 234575 / FC5704 TRACTORES HCX-4102-, SOLDADORA MOZA/P553004/FF5018 M16X1.5/SILVF586F /3930942/ WK723/ FC5723/ P4102",
+    "marca": "AUTEK",
+    "precio": 2.58,
+    "base": 2.25
+  },
+  {
+    "codigo": "AUTEKFD2301",
+    "descripcion": "AUTTEK ACEITE 101012014-FD2301 DONGFENG RICH 6 2.3 DIESEL 19-; RICH 7 2.3 DIESEL 22-24; YUFENG V9 2.0T 2.3T; CHERY HIMLA 2.3T TDI 26- / EO791070 / 152082ZG6D+A014",
+    "marca": "AUTEK",
+    "precio": 2.84,
+    "base": 2.47
+  },
+  {
+    "codigo": "AUTEKFRL661",
+    "descripcion": "AUTTEK DIESEL 31922-2E900 HYUNDAI H350 II 2.5 CRDI (18-20), TUCSON 2.0 CRDI (06-08); KIA SPORTAGE 2.0 CRDI (05-08) / REDE900 // RBF59/ FC2901/ H70WK13/ AFP-226 /  FRL661",
+    "marca": "AUTEK",
+    "precio": 3.98,
+    "base": 3.46
+  },
+  {
+    "codigo": "AUTEKG2000",
+    "descripcion": "AUTTEK CABINA 97133-G2000 HYUNDAI TUCSON 2.0 (04-09) , TUCSON IX 2.0 (10-11); KIA SPORTAGE 2.0L (05-09); SPORTAGE R 2.0L (11--); TUCSON DIESEL 2.5/97133-G2000/MOTC3225/CA28151/97133-2E260 / SPHB010",
+    "marca": "AUTEK",
+    "precio": 2.61,
+    "base": 2.27
   },
   {
     "codigo": "AUTEKG6000",
@@ -1365,6 +1575,13 @@
     "base": 1.96
   },
   {
+    "codigo": "AUTEKPH8A",
+    "descripcion": "AUTTEK ACEITE PH8A -91677369-1560041010 FORD, TOYOTA STOUT, CHEV, NISS, DATSUN, LAND CRUISER DAIH DELTA (3/4X16) / PH8A / 9957600",
+    "marca": "AUTEK",
+    "precio": 2.74,
+    "base": 2.39
+  },
+  {
     "codigo": "AUTEKPH966",
     "descripcion": "AUTTEK ACEITE PH966 VITARA, GRAND VITARA, FORZA I-II- DMAX 2.4 2015 // JETOUR X70 1.5 (3/4X16) / PH3614",
     "marca": "AUTEK",
@@ -1403,8 +1620,8 @@
     "codigo": "AUTEKPL18",
     "descripcion": "AUTTEK PLUMA 18 PLG GOMA CL907 MULTIFUNCIONAL",
     "marca": "AUTEK",
-    "precio": 3.89,
-    "base": 3.38
+    "precio": 4.34,
+    "base": 3.77
   },
   {
     "codigo": "AUTEKPL20",
@@ -1417,8 +1634,8 @@
     "codigo": "AUTEKPL22",
     "descripcion": "AUTTEK PLUMA 22 PLG GOMA CL907 MULTIFUNCIONAL",
     "marca": "AUTEK",
-    "precio": 3.89,
-    "base": 3.38
+    "precio": 4.36,
+    "base": 3.79
   },
   {
     "codigo": "AUTEKPL24",
@@ -1435,11 +1652,39 @@
     "base": 3.38
   },
   {
+    "codigo": "AUTEKPSL77",
+    "descripcion": "AUTTEK ACEITE PSL77 RENAULT TWINGO MEGANI DADO (M20X1.5)/ RED3583T / SHOPSL77 / TEFPSL77 /OEM: 7700274177 / OLP055/ SO10959",
+    "marca": "AUTEK",
+    "precio": 1.81,
+    "base": 1.57
+  },
+  {
     "codigo": "AUTEKS16XB",
     "descripcion": "AUTTEK AIRE 1109101XS16XB GREAT WALL M4 (2011/2013) - H1 (2014/-) - C30 VOLEEX (2011/2013) - M4 1.5L (2019/->) - GREAT WALL M4 (2015/2018 / SUPKXS16XB",
     "marca": "AUTEK",
     "precio": 2.46,
     "base": 2.14
+  },
+  {
+    "codigo": "AUTEKSF1066",
+    "descripcion": "AUTTEK DIESEL C00427459 / SF1066 CHEVROLET DMAX NUEVA 2.0T TDI 25-26 / SHOFF2135 / OEM: C00427459/ 8984042860/ 7459K",
+    "marca": "AUTEK",
+    "precio": 5.97,
+    "base": 5.19
+  },
+  {
+    "codigo": "AUTEKSO1315D",
+    "descripcion": "AUTTEK ACEITE 1017110XED95 / SO1315D GREAT WALL POER 2.0T CRDI (20-23) / OEM: 1017110XED95 / SO1315D / 42957",
+    "marca": "AUTEK",
+    "precio": 2.47,
+    "base": 2.14
+  },
+  {
+    "codigo": "AUTEKSO9641",
+    "descripcion": "AUTTEK ACEITE 1WA014302 / SO4043 FORD RANGER 3.2 (12--); MAZDA NEW BT50 (16--) /EO17030/ SO9641/ KUB31674 / MIL67340 / PETPCBS4043 / HU7002Z / OEM: 1WA014302/ SO9641",
+    "marca": "AUTEK",
+    "precio": 2.44,
+    "base": 2.12
   },
   {
     "codigo": "AUTEKV052",
@@ -1464,7 +1709,7 @@
   },
   {
     "codigo": "AUTEKZ9106",
-    "descripcion": "AUTTEK AIRE 16546-Z9106 HINO 700 MULA NISSAN PKS PRIMARIO (SECUNDARIOA6120) / A6119 / 178013450/ A1335",
+    "descripcion": "AUTTEK AIRE 16546-Z9106 HINO 700 MULA NISSAN PKS PRIMARIO (SECUNDARIOA6120) / A6119 / 178013450/ A1335 / 17801-346",
     "marca": "AUTEK",
     "precio": 15.58,
     "base": 13.55
@@ -1501,15 +1746,15 @@
     "codigo": "AGU0001",
     "descripcion": "AGUA DE BATERIA LT",
     "marca": "HT2 CLEAN",
-    "precio": 0.64,
-    "base": 0.56
+    "precio": 0.56,
+    "base": 0.49
   },
   {
     "codigo": "AGU0003",
     "descripcion": "AGUA DE BATERIA GL",
     "marca": "HT2 CLEAN",
-    "precio": 2.09,
-    "base": 1.82
+    "precio": 1.87,
+    "base": 1.63
   },
   {
     "codigo": "AGU0004",
@@ -1541,10 +1786,10 @@
   },
   {
     "codigo": "HT0001",
-    "descripcion": "HT2 CLEAN DESENGRASANTE SILVER / SUPER CANECA",
+    "descripcion": "HT2 CLEAN DESENGRASANTE SILVER / SUPER CANECA / VIAX0014",
     "marca": "HT2 CLEAN",
-    "precio": 21.56,
-    "base": 18.75
+    "precio": 21.16,
+    "base": 18.4
   },
   {
     "codigo": "HT0002",
@@ -1555,28 +1800,28 @@
   },
   {
     "codigo": "HT0003",
-    "descripcion": "HT2 CLEAN BRILLO DE LLANTAS CANECA",
+    "descripcion": "HT2 CLEAN BRILLO DE LLANTAS CANECA / VIAX0012",
     "marca": "HT2 CLEAN",
-    "precio": 38.36,
-    "base": 33.36
+    "precio": 42.43,
+    "base": 36.9
   },
   {
     "codigo": "HT0004",
-    "descripcion": "HT2 CLEAN SHAMPOO CANECA",
+    "descripcion": "HT2 CLEAN SHAMPOO CANECA / VIAX0021",
     "marca": "HT2 CLEAN",
-    "precio": 19.52,
-    "base": 16.97
+    "precio": 20.76,
+    "base": 18.05
   },
   {
     "codigo": "HT0005",
-    "descripcion": "HT2 CLEAN DUCHA GRAFITADA NEGRA CANECA",
+    "descripcion": "HT2 CLEAN DUCHA GRAFITADA NEGRA CANECA / VIAX0003",
     "marca": "HT2 CLEAN",
     "precio": 41.83,
     "base": 36.37
   },
   {
     "codigo": "HT0007",
-    "descripcion": "HT2 CLEAN DESENGRASANTE GL",
+    "descripcion": "HT2 CLEAN DESENGRASANTE GL / VIAX0022",
     "marca": "HT2 CLEAN",
     "precio": 6.35,
     "base": 5.52
@@ -1585,15 +1830,15 @@
     "codigo": "HT0008",
     "descripcion": "HT2 CLEAN SILICON PLUS GL / FRESA",
     "marca": "HT2 CLEAN",
-    "precio": 9.25,
-    "base": 8.04
+    "precio": 8.61,
+    "base": 7.48
   },
   {
     "codigo": "HT0009",
-    "descripcion": "HT2 CLEAN SHAMPOO GL",
+    "descripcion": "HT2 CLEAN SHAMPOO GL / VIAX0004",
     "marca": "HT2 CLEAN",
-    "precio": 6.06,
-    "base": 5.27
+    "precio": 5.81,
+    "base": 5.05
   },
   {
     "codigo": "HT0010",
@@ -1688,10 +1933,10 @@
   },
   {
     "codigo": "HT0023",
-    "descripcion": "HT2 CLEAN BRILLO DE LLANTAS GL",
+    "descripcion": "HT2 CLEAN BRILLO DE LLANTAS GL / VIAX0002",
     "marca": "HT2 CLEAN",
-    "precio": 9.28,
-    "base": 8.07
+    "precio": 10.03,
+    "base": 8.72
   },
   {
     "codigo": "HT0026",
@@ -1711,8 +1956,8 @@
     "codigo": "HT0028",
     "descripcion": "HT2 CLEAN DESENGRASANTE TANQUE",
     "marca": "HT2 CLEAN",
-    "precio": 207.44,
-    "base": 180.38
+    "precio": 181.5,
+    "base": 157.82
   },
   {
     "codigo": "HT0029",
@@ -1767,8 +2012,8 @@
     "codigo": "HT0036",
     "descripcion": "HT2 CLEAN SHAMPOO CERA TANQUE",
     "marca": "HT2 CLEAN",
-    "precio": 259.21,
-    "base": 225.4
+    "precio": 215.03,
+    "base": 186.98
   },
   {
     "codigo": "HT0037",
@@ -1807,24 +2052,24 @@
   },
   {
     "codigo": "HT0042",
-    "descripcion": "HT2 CLEAN DESENGRASANTE GOLD / PREMIUM CANECA",
+    "descripcion": "HT2 CLEAN DESENGRASANTE GOLD / PREMIUM CANECA / VIAX0024",
     "marca": "HT2 CLEAN",
-    "precio": 28.66,
-    "base": 24.92
+    "precio": 27.4,
+    "base": 23.83
   },
   {
     "codigo": "HT0043",
-    "descripcion": "HT2 CLEAN DESENGRASANTE DIAMANTE / ESPECIAL CANECA",
+    "descripcion": "HT2 CLEAN DESENGRASANTE DIAMANTE / ESPECIAL CANECA / VIAX0013",
     "marca": "HT2 CLEAN",
-    "precio": 38.92,
-    "base": 33.84
+    "precio": 37.62,
+    "base": 32.72
   },
   {
     "codigo": "HT0044",
-    "descripcion": "HT2 CLEAN SHAMPOO CERA PREMIUM CANECA",
+    "descripcion": "HT2 CLEAN SHAMPOO CERA PREMIUM CANECA / VIAX0015",
     "marca": "HT2 CLEAN",
-    "precio": 25.16,
-    "base": 21.88
+    "precio": 26,
+    "base": 22.61
   },
   {
     "codigo": "HT0045",
@@ -1879,8 +2124,8 @@
     "codigo": "HT0051",
     "descripcion": "HT2 CLEAN DESENGRASANTE PREMIUM TANQUE",
     "marca": "HT2 CLEAN",
-    "precio": 258.95,
-    "base": 225.17
+    "precio": 218.5,
+    "base": 190
   },
   {
     "codigo": "HT0052",
@@ -1891,14 +2136,14 @@
   },
   {
     "codigo": "HT0053",
-    "descripcion": "HT2 CLEAN LIMPIA PARABRISAS 1/4",
+    "descripcion": "HT2 CLEAN LIMPIA PARABRISAS 1/4 / VIAX0019",
     "marca": "HT2 CLEAN",
     "precio": 2.27,
     "base": 1.98
   },
   {
     "codigo": "HT0054",
-    "descripcion": "HT2 CLEAN LIMPIA PARABRISAS GL",
+    "descripcion": "HT2 CLEAN LIMPIA PARABRISAS GL / VIAX0018",
     "marca": "HT2 CLEAN",
     "precio": 6.12,
     "base": 5.32
@@ -1907,22 +2152,22 @@
     "codigo": "HT0055",
     "descripcion": "HT2 CLEAN SILICONA UV CARRO NUEVO/ ZERO KILOMETROS 350ML",
     "marca": "HT2 CLEAN",
-    "precio": 3.07,
-    "base": 2.67
+    "precio": 3.38,
+    "base": 2.94
   },
   {
     "codigo": "HT0056",
     "descripcion": "HT2 CLEAN SILICONA UV CHICLE 350ML",
     "marca": "HT2 CLEAN",
-    "precio": 3.07,
-    "base": 2.67
+    "precio": 3.38,
+    "base": 2.94
   },
   {
     "codigo": "HT0057",
     "descripcion": "HT2 CLEAN SILICONA UV FRESA 350ML",
     "marca": "HT2 CLEAN",
-    "precio": 3.07,
-    "base": 2.67
+    "precio": 3.38,
+    "base": 2.94
   },
   {
     "codigo": "HT0058",
@@ -1933,17 +2178,17 @@
   },
   {
     "codigo": "HT0059",
-    "descripcion": "HT2 CLEAN BRILLO DE LLANTAS PREMIUM GL",
+    "descripcion": "HT2 CLEAN BRILLO DE LLANTAS PREMIUM GL / VIAX0011",
     "marca": "HT2 CLEAN",
     "precio": 13.88,
     "base": 12.07
   },
   {
     "codigo": "HT0060",
-    "descripcion": "HT2 CLEAN SHAMPOO PREMIUM GL",
+    "descripcion": "HT2 CLEAN SHAMPOO PREMIUM GL / VIAX0020",
     "marca": "HT2 CLEAN",
-    "precio": 8.16,
-    "base": 7.1
+    "precio": 6.89,
+    "base": 5.99
   },
   {
     "codigo": "HT0061",
@@ -1977,15 +2222,15 @@
     "codigo": "HT0065",
     "descripcion": "HT2 CLEAN SILICON PLUS GL / CARRO NUEVO",
     "marca": "HT2 CLEAN",
-    "precio": 9.23,
-    "base": 8.03
+    "precio": 8.6,
+    "base": 7.48
   },
   {
     "codigo": "HT0066",
     "descripcion": "HT2 CLEAN SILICONA UV BLACK ICE 350ML",
     "marca": "HT2 CLEAN",
-    "precio": 3.17,
-    "base": 2.76
+    "precio": 3.53,
+    "base": 3.07
   },
   {
     "codigo": "HT0067",
@@ -1996,17 +2241,17 @@
   },
   {
     "codigo": "HT0068",
-    "descripcion": "HT2 CLEAN DESENGRASANTE GL ESPECIAL",
+    "descripcion": "HT2 CLEAN DESENGRASANTE GL ESPECIAL / VIAX0008",
     "marca": "HT2 CLEAN",
-    "precio": 10.99,
-    "base": 9.56
+    "precio": 9.89,
+    "base": 8.6
   },
   {
     "codigo": "HT0069",
     "descripcion": "HT2 CLEAN REFRIGERANTE 50/50 NARANJA GL",
     "marca": "HT2 CLEAN",
-    "precio": 8.63,
-    "base": 7.5
+    "precio": 8.88,
+    "base": 7.72
   },
   {
     "codigo": "HT0070",
@@ -2017,7 +2262,7 @@
   },
   {
     "codigo": "HT0071",
-    "descripcion": "HT2 CLEAN LIMPIA PARABRISAS CANECA",
+    "descripcion": "HT2 CLEAN LIMPIA PARABRISAS CANECA / VIAX0037",
     "marca": "HT2 CLEAN",
     "precio": 26.35,
     "base": 22.91
@@ -2033,8 +2278,8 @@
     "codigo": "HT0073",
     "descripcion": "HT2 CLEAN SILICON PLUS GL CHICLE",
     "marca": "HT2 CLEAN",
-    "precio": 9.23,
-    "base": 8.03
+    "precio": 8.61,
+    "base": 7.48
   },
   {
     "codigo": "HT0074",
@@ -2073,31 +2318,31 @@
   },
   {
     "codigo": "HT0080",
-    "descripcion": "HT2 CLEAN SILICON PREMIUM CANECA / CARRO NUEVO",
+    "descripcion": "HT2 CLEAN SILICON PREMIUM CANECA / CARRO NUEVO / VIAX0016",
     "marca": "HT2 CLEAN",
-    "precio": 39.66,
-    "base": 34.48
+    "precio": 36.92,
+    "base": 32.11
   },
   {
     "codigo": "HT0081",
-    "descripcion": "HT2 CLEAN SILICON PREMIUM CANECA / FRESA",
+    "descripcion": "HT2 CLEAN SILICON PREMIUM CANECA / FRESA / VIAX0017",
     "marca": "HT2 CLEAN",
-    "precio": 39.66,
-    "base": 34.48
+    "precio": 36.92,
+    "base": 32.11
   },
   {
     "codigo": "HT0082",
     "descripcion": "HT2 CLEAN SILICON PREMIUM CANECA / CHICLE",
     "marca": "HT2 CLEAN",
-    "precio": 39.66,
-    "base": 34.48
+    "precio": 36.92,
+    "base": 32.11
   },
   {
     "codigo": "HT0083",
-    "descripcion": "HT2 CLEAN BRILLO DE LLANTAS PREMIUM CANECA",
+    "descripcion": "HT2 CLEAN BRILLO DE LLANTAS PREMIUM CANECA / VIAX0010",
     "marca": "HT2 CLEAN",
-    "precio": 52.63,
-    "base": 45.77
+    "precio": 60.4,
+    "base": 52.52
   },
   {
     "codigo": "HT0084",
@@ -2108,14 +2353,14 @@
   },
   {
     "codigo": "HT0085",
-    "descripcion": "HT2 DUCHA GRAFITADA TRANSPARENTE CANECA",
+    "descripcion": "HT2 DUCHA GRAFITADA TRANSPARENTE CANECA / VIAX0001",
     "marca": "HT2 CLEAN",
     "precio": 41.83,
     "base": 36.37
   },
   {
     "codigo": "HT0086",
-    "descripcion": "HT2 CLEAN DUCHA GRAFITADA TRANSPARENTE 1/4",
+    "descripcion": "HT2 CLEAN DUCHA GRAFITADA TRANSPARENTE 1/4 / VIAX0034",
     "marca": "HT2 CLEAN",
     "precio": 3.64,
     "base": 3.17
@@ -2129,10 +2374,10 @@
   },
   {
     "codigo": "HT0088",
-    "descripcion": "HT2 CLEAN DESENGRASANTE 600 ML",
+    "descripcion": "HT2 CLEAN DESENGRASANTE 600 ML / VIAX0023",
     "marca": "HT2 CLEAN",
-    "precio": 3.04,
-    "base": 2.65
+    "precio": 2.73,
+    "base": 2.37
   },
   {
     "codigo": "HT0089",
@@ -2152,26 +2397,26 @@
     "codigo": "HT0091",
     "descripcion": "HT2 CLEAN SILICONA UV AFTER PARTY 350ML",
     "marca": "HT2 CLEAN",
-    "precio": 3.17,
-    "base": 2.76
+    "precio": 3.53,
+    "base": 3.07
   },
   {
     "codigo": "HT0092",
     "descripcion": "HT2 CLEAN SILICONA UV SPLASH ME 350ML",
     "marca": "HT2 CLEAN",
-    "precio": 3.17,
-    "base": 2.76
+    "precio": 3.53,
+    "base": 3.07
   },
   {
     "codigo": "HT0093",
-    "descripcion": "HT2 DUCHA GRAFITADA TRANSPARENTE GL",
+    "descripcion": "HT2 DUCHA GRAFITADA TRANSPARENTE GL / VIAX0035",
     "marca": "HT2 CLEAN",
     "precio": 9.61,
     "base": 8.36
   },
   {
     "codigo": "HT0094",
-    "descripcion": "HT2 SHAMPOO PREMIUM CON CERA 700 ML",
+    "descripcion": "HT2 SHAMPOO PREMIUM CON CERA 700 ML / VIAX0005",
     "marca": "HT2 CLEAN",
     "precio": 3.45,
     "base": 3
@@ -2180,12 +2425,12 @@
     "codigo": "HT0095",
     "descripcion": "HT2 REFRIGERANTE 50/50 CANECA",
     "marca": "HT2 CLEAN",
-    "precio": 39.44,
-    "base": 34.3
+    "precio": 40.84,
+    "base": 35.51
   },
   {
     "codigo": "HT0096",
-    "descripcion": "HT2 REFRIGERANTE 50/50 1/4",
+    "descripcion": "HT2 REFRIGERANTE 50/50 1/4 NARANJA",
     "marca": "HT2 CLEAN",
     "precio": 2.91,
     "base": 2.53
@@ -2313,12 +2558,103 @@
     "codigo": "HT0114",
     "descripcion": "HT2 CLEAN REFRIGERANTE 33% VERDE CANECA",
     "marca": "HT2 CLEAN",
-    "precio": 30.45,
-    "base": 26.48
+    "precio": 31.24,
+    "base": 27.16
+  },
+  {
+    "codigo": "HT0115",
+    "descripcion": "HT2 CLEAN AMBIENTAL BLISTER FRUTAL AROMA O - ZONE / TURB0003",
+    "marca": "HT2 CLEAN",
+    "precio": 0.5,
+    "base": 0.43
+  },
+  {
+    "codigo": "HT0116",
+    "descripcion": "HT2 CLEAN AMBIENTAL BLISTER FRUTAL AROMA APPLE FRESH / TURB0003",
+    "marca": "HT2 CLEAN",
+    "precio": 0.5,
+    "base": 0.43
+  },
+  {
+    "codigo": "HT0117",
+    "descripcion": "HT2 CLEAN AMBIENTAL BLISTER FRUTAL AROMA CHICLE WISE /TURB0003",
+    "marca": "HT2 CLEAN",
+    "precio": 0.5,
+    "base": 0.43
+  },
+  {
+    "codigo": "HT0118",
+    "descripcion": "HT2 CLEAN AMBIENTAL BLISTER FRUTAL AROMA FRESA VIBES / TURB0003",
+    "marca": "HT2 CLEAN",
+    "precio": 0.5,
+    "base": 0.43
+  },
+  {
+    "codigo": "HT0119",
+    "descripcion": "HT2 CLEAN AMBIENTAL BLISTER FRUTAL AROMA FRESH RACING / TURB0003",
+    "marca": "HT2 CLEAN",
+    "precio": 0.5,
+    "base": 0.43
+  },
+  {
+    "codigo": "HT0120",
+    "descripcion": "HT2 CLEAN AMBIENTAL BLISTER CARRITO AROMA 402 RUSH",
+    "marca": "HT2 CLEAN",
+    "precio": 0.5,
+    "base": 0.43
+  },
+  {
+    "codigo": "HT0121",
+    "descripcion": "HT2 CLEAN AMBIENTAL BLISTER CARRITO AROMA ATLANTIC",
+    "marca": "HT2 CLEAN",
+    "precio": 0.5,
+    "base": 0.43
+  },
+  {
+    "codigo": "HT0122",
+    "descripcion": "HT2 CLEAN AMBIENTAL BLISTER CARRITO AROMA BAMBOO X",
+    "marca": "HT2 CLEAN",
+    "precio": 0.5,
+    "base": 0.43
+  },
+  {
+    "codigo": "HT0123",
+    "descripcion": "HT2 CLEAN AMBIENTAL BLISTER CARRITO AROMA HUNTER",
+    "marca": "HT2 CLEAN",
+    "precio": 0.5,
+    "base": 0.43
+  },
+  {
+    "codigo": "HT0124",
+    "descripcion": "HT2 CLEAN AMBIENTAL BLISTER CARRITO AROMA LUCKY ONE",
+    "marca": "HT2 CLEAN",
+    "precio": 0.5,
+    "base": 0.43
+  },
+  {
+    "codigo": "HT0125",
+    "descripcion": "HT2 CLEAN AMBIENTAL BLISTER CARRITO AROMA MIAMI 21",
+    "marca": "HT2 CLEAN",
+    "precio": 0.5,
+    "base": 0.43
+  },
+  {
+    "codigo": "HT0126",
+    "descripcion": "HT2 CLEAN AMBIENTAL BLISTER CARRITO AROMA NOMADA",
+    "marca": "HT2 CLEAN",
+    "precio": 0.5,
+    "base": 0.43
+  },
+  {
+    "codigo": "HT0127",
+    "descripcion": "HT2 CLEAN AMBIENTAL BLISTER CARRITO AROMA PEAR BLOOM",
+    "marca": "HT2 CLEAN",
+    "precio": 0.5,
+    "base": 0.43
   },
   {
     "codigo": "HTKIT001",
-    "descripcion": "HT KIT LIMPIEZA",
+    "descripcion": "HT KIT LIMPIEZA / VIAX",
     "marca": "HT2 CLEAN",
     "precio": 9.99,
     "base": 8.69
@@ -2364,6 +2700,13 @@
     "marca": "HT2 CLEAN",
     "precio": 0.91,
     "base": 0.79
+  },
+  {
+    "codigo": "VIAX0026",
+    "descripcion": "VIAX SILICON GOLD / PREMIUM CANECA VAINILLA COCO",
+    "marca": "HT2 CLEAN",
+    "precio": 36.92,
+    "base": 32.11
   },
   {
     "codigo": "AMBMATBRA",
@@ -3277,7 +3620,7 @@
   },
   {
     "codigo": "MAT8463",
-    "descripcion": "MAT BRAKES 8463 1354 / D1354 POSTERIOR  JAC S3-S2/ CHV ABRISO 3 2020 SEMIMETALICA",
+    "descripcion": "MAT BRAKES 8463 1354 / D1354 POSTERIOR SEMI METALICA TOYOTA PRIUS, COROLLA (09-) JAPON, GREATWALL VOLEX C30, HAVAL M4 CHERY TIGGO / SUZUKI S7CROSS 2017> / BAIC BJ20, CHANGHE Q35, BAIC X25, JAC S2 S3, CHERY TIGGO 2, LIFAN X50, SHINERAY VANX30 LS / COROLLA JAPONES 1.8L 2011> / YARIS NITRO 2005 / TOYOTA COROLLA YARIS PRIUS VOLEEX C30 09-11 (D1423)",
     "marca": "MAT BRAKES",
     "precio": 7.86,
     "base": 6.83
@@ -3627,45 +3970,325 @@
   },
   {
     "codigo": "VIAX0001",
-    "descripcion": "VIAX DUCHA GRAFITADA TRANSPARENTE CANECA",
+    "descripcion": "VIAX DUCHA GRAFITADA TRANSPARENTE CANECA / HT0085",
     "marca": "VIAX",
     "precio": 41.83,
     "base": 36.37
   },
   {
     "codigo": "VIAX0002",
-    "descripcion": "VIAX BRILLO DE LLANTAS GL SILVER",
+    "descripcion": "VIAX BRILLO DE LLANTAS GL SILVER / HT0023",
     "marca": "VIAX",
-    "precio": 9.28,
-    "base": 8.07
+    "precio": 9.64,
+    "base": 8.38
   },
   {
     "codigo": "VIAX0003",
-    "descripcion": "VIAX DUCHA GRAFITADA NEGRA CANECA",
+    "descripcion": "VIAX DUCHA GRAFITADA NEGRA CANECA / HT0005",
     "marca": "VIAX",
     "precio": 41.83,
     "base": 36.37
   },
   {
     "codigo": "VIAX0004",
-    "descripcion": "VIAX SHAMPOO SILVER GL",
+    "descripcion": "VIAX SHAMPOO SILVER GL / HT0009",
     "marca": "VIAX",
-    "precio": 6.06,
-    "base": 5.27
+    "precio": 5.81,
+    "base": 5.05
   },
   {
     "codigo": "VIAX0005",
-    "descripcion": "VIAX SHAMPOO GOLD / PREMIUM 700ML",
+    "descripcion": "VIAX SHAMPOO GOLD / PREMIUM 700ML / HT0094",
     "marca": "VIAX",
-    "precio": 3.45,
-    "base": 3
+    "precio": 3.22,
+    "base": 2.8
   },
   {
     "codigo": "VIAX0006",
     "descripcion": "VIAX DESENGRASANTE SILVER TANQUE",
     "marca": "VIAX",
-    "precio": 207.44,
-    "base": 180.38
+    "precio": 181.5,
+    "base": 157.82
+  },
+  {
+    "codigo": "VIAX0008",
+    "descripcion": "VIAX DESENGRASANTE DIAMANTE GL / HT0068",
+    "marca": "VIAX",
+    "precio": 9.89,
+    "base": 8.6
+  },
+  {
+    "codigo": "VIAX0009",
+    "descripcion": "VIAX DESENGRASANTE GOLD / PREMIUM TANQUE",
+    "marca": "VIAX",
+    "precio": 218.5,
+    "base": 190
+  },
+  {
+    "codigo": "VIAX0010",
+    "descripcion": "VIAX BRILLO DE LLANTAS GOLD / PREMIUM CANECA / HT0083",
+    "marca": "VIAX",
+    "precio": 60.4,
+    "base": 52.52
+  },
+  {
+    "codigo": "VIAX0011",
+    "descripcion": "VIAX BRILLO DE LLANTAS GOLD / PREMIUM GL / HT0059",
+    "marca": "VIAX",
+    "precio": 13.88,
+    "base": 12.07
+  },
+  {
+    "codigo": "VIAX0012",
+    "descripcion": "VIAX BRILLO DE LLANTAS SILVER CANECA / HT0003",
+    "marca": "VIAX",
+    "precio": 42.43,
+    "base": 36.9
+  },
+  {
+    "codigo": "VIAX0013",
+    "descripcion": "VIAX DESENGRASANTE DIAMANTE CANECA / HT0043",
+    "marca": "VIAX",
+    "precio": 37.62,
+    "base": 32.72
+  },
+  {
+    "codigo": "VIAX0014",
+    "descripcion": "VIAX DESENGRASANTE SILVER CANECA  / HT0001",
+    "marca": "VIAX",
+    "precio": 21.16,
+    "base": 18.4
+  },
+  {
+    "codigo": "VIAX0015",
+    "descripcion": "VIAX SHAMPOO GOLD / PREMIUM CERA CANECA / HT0044",
+    "marca": "VIAX",
+    "precio": 26,
+    "base": 22.61
+  },
+  {
+    "codigo": "VIAX0016",
+    "descripcion": "VIAX SILICON GOLD / PREMIUM CANECA / CARRO NUEVO / HT0080",
+    "marca": "VIAX",
+    "precio": 36.92,
+    "base": 32.11
+  },
+  {
+    "codigo": "VIAX0017",
+    "descripcion": "VIAX SILICON GOLD / PREMIUM  CANECA FRESA / HT0081",
+    "marca": "VIAX",
+    "precio": 36.92,
+    "base": 32.11
+  },
+  {
+    "codigo": "VIAX0018",
+    "descripcion": "VIAX LIMPIA PARABRISAS GL / HT0054",
+    "marca": "VIAX",
+    "precio": 6.12,
+    "base": 5.32
+  },
+  {
+    "codigo": "VIAX0019",
+    "descripcion": "VIAX LIMPIA PARABRISAS 1/4 / HT0053",
+    "marca": "VIAX",
+    "precio": 2.27,
+    "base": 1.98
+  },
+  {
+    "codigo": "VIAX0020",
+    "descripcion": "VIAX SHAMPOO GOLD / PREMIUM GL / HT0060",
+    "marca": "VIAX",
+    "precio": 7.7,
+    "base": 6.7
+  },
+  {
+    "codigo": "VIAX0021",
+    "descripcion": "VIAX SHAMPOO SILVER CANECA / HT0004",
+    "marca": "VIAX",
+    "precio": 20.76,
+    "base": 18.05
+  },
+  {
+    "codigo": "VIAX0022",
+    "descripcion": "VIAX DESENGRASANTE SILVER GL / HT0007",
+    "marca": "VIAX",
+    "precio": 6.35,
+    "base": 5.52
+  },
+  {
+    "codigo": "VIAX0023",
+    "descripcion": "VIAX DESENGRASANTE SILVER 600 ML / HT0088",
+    "marca": "VIAX",
+    "precio": 2.73,
+    "base": 2.37
+  },
+  {
+    "codigo": "VIAX0024",
+    "descripcion": "VIAX DESENGRASANTE GOLD CANECA / HT0042",
+    "marca": "VIAX",
+    "precio": 27.4,
+    "base": 23.83
+  },
+  {
+    "codigo": "VIAX0027",
+    "descripcion": "VIAX SILICON GOLD / PREMIUM CANECA D - ESTRENO",
+    "marca": "VIAX",
+    "precio": 37.6,
+    "base": 32.69
+  },
+  {
+    "codigo": "VIAX0028",
+    "descripcion": "VIAX SILICON GOLD / PREMIUM CANECA CHICLE TROPICAL",
+    "marca": "VIAX",
+    "precio": 36.92,
+    "base": 32.11
+  },
+  {
+    "codigo": "VIAX0029",
+    "descripcion": "VIAX SILICON GOLD / PREMIUM GL CARRO NUEVO",
+    "marca": "VIAX",
+    "precio": 9.23,
+    "base": 8.03
+  },
+  {
+    "codigo": "VIAX0030",
+    "descripcion": "VIAX MUESTRA SILICON VAINILLA COCO",
+    "marca": "VIAX",
+    "precio": 0,
+    "base": 0
+  },
+  {
+    "codigo": "VIAX0031",
+    "descripcion": "VIAX MUESTRA SILICON CHICLE TROPICAL",
+    "marca": "VIAX",
+    "precio": 0,
+    "base": 0
+  },
+  {
+    "codigo": "VIAX0032",
+    "descripcion": "VIAX MUESTRA SILICON D-ESTRENO",
+    "marca": "VIAX",
+    "precio": 0,
+    "base": 0
+  },
+  {
+    "codigo": "VIAX0033",
+    "descripcion": "VIAX SHAMPOO GOLD / CERA TANQUE",
+    "marca": "VIAX",
+    "precio": 241.52,
+    "base": 210.01
+  },
+  {
+    "codigo": "VIAX0034",
+    "descripcion": "VIAX DUCHA GRAFITADA TRANSPARENTE 1/4 / HT0086",
+    "marca": "VIAX",
+    "precio": 3.64,
+    "base": 3.17
+  },
+  {
+    "codigo": "VIAX0035",
+    "descripcion": "VIAX DUCHA GRAFITADA TRANSPARENTE GL / HT0093",
+    "marca": "VIAX",
+    "precio": 9.61,
+    "base": 8.36
+  },
+  {
+    "codigo": "VIAX0036",
+    "descripcion": "VIAX DESENGRASANTE DIAMANTE TANQUE",
+    "marca": "VIAX",
+    "precio": 393.59,
+    "base": 342.25
+  },
+  {
+    "codigo": "VIAX0037",
+    "descripcion": "VIAX LIMPIA PARABRISAS CANECA / HT0071",
+    "marca": "VIAX",
+    "precio": 26.35,
+    "base": 22.91
+  },
+  {
+    "codigo": "VIAXMUESTRA001",
+    "descripcion": "VIAX BRILLO DE LLANTAS SILVER MUESTRA",
+    "marca": "VIAX",
+    "precio": 0,
+    "base": 0
+  },
+  {
+    "codigo": "VIAXMUESTRA002",
+    "descripcion": "VIAX BRILLO DE LLANTAS GOLD MUESTRA",
+    "marca": "VIAX",
+    "precio": 0,
+    "base": 0
+  },
+  {
+    "codigo": "VIAXMUESTRA003",
+    "descripcion": "VIAX DESENGRASANTE DE MOTOR SILVER MUESTRA",
+    "marca": "VIAX",
+    "precio": 0,
+    "base": 0
+  },
+  {
+    "codigo": "VIAXMUESTRA004",
+    "descripcion": "VIAX DESENGRASANTE DE MOTOR GOLD MUESTRA",
+    "marca": "VIAX",
+    "precio": 0,
+    "base": 0
+  },
+  {
+    "codigo": "VIAXMUESTRA005",
+    "descripcion": "VIAX DESENGRASANTE DE MOTOR DIAMANTE MUESTRA",
+    "marca": "VIAX",
+    "precio": 0,
+    "base": 0
+  },
+  {
+    "codigo": "VIAXMUESTRA006",
+    "descripcion": "VIAX SHAMPOO SILVER MUESTRA",
+    "marca": "VIAX",
+    "precio": 0,
+    "base": 0
+  },
+  {
+    "codigo": "VIAXMUESTRA007",
+    "descripcion": "VIAX SHAMPOO GOLD MUESTRA",
+    "marca": "VIAX",
+    "precio": 0,
+    "base": 0
+  },
+  {
+    "codigo": "VIAXMUESTRA008",
+    "descripcion": "VIAX SILICON DE TABLERO PREMIUM CARRO NUEVO MUESTRA",
+    "marca": "VIAX",
+    "precio": 0,
+    "base": 0
+  },
+  {
+    "codigo": "VIAXMUESTRA009",
+    "descripcion": "VIAX SILICON DE TABLERO PREMIUM CHICLE MUESTRA",
+    "marca": "VIAX",
+    "precio": 0,
+    "base": 0
+  },
+  {
+    "codigo": "VIAXMUESTRA010",
+    "descripcion": "VIAX SILICON DE TABLERO PREMIUM FRESA MUESTRA",
+    "marca": "VIAX",
+    "precio": 0,
+    "base": 0
+  },
+  {
+    "codigo": "VIAXMUESTRA011",
+    "descripcion": "VIAX DUCHA GRAFITADA TRANSPARENTE MUESTRA",
+    "marca": "VIAX",
+    "precio": 0,
+    "base": 0
+  },
+  {
+    "codigo": "VIAXMUESTRA012",
+    "descripcion": "VIAX DUCHA GRAFITADA NEGRA MUESTRA",
+    "marca": "VIAX",
+    "precio": 0,
+    "base": 0
   },
   {
     "codigo": "ZAX0001",
@@ -3699,8 +4322,8 @@
     "codigo": "ZAX0005",
     "descripcion": "ZAXLUBE GRASA TANQUE AZUL CHASIS #2",
     "marca": "ZAXLUBE",
-    "precio": 391.6,
-    "base": 340.52
+    "precio": 411.12,
+    "base": 357.5
   },
   {
     "codigo": "ZAX0006",
@@ -3720,15 +4343,15 @@
     "codigo": "ZAX0008",
     "descripcion": "ZAXLUBE GRASA CANECA AMARILLA CHASIS #2",
     "marca": "ZAXLUBE",
-    "precio": 39.5,
-    "base": 34.35
+    "precio": 41.15,
+    "base": 35.78
   },
   {
     "codigo": "ZAX0009",
     "descripcion": "ZAXLUBE GRASA CANECA AMARILLA COPAS #3",
     "marca": "ZAXLUBE",
-    "precio": 40.37,
-    "base": 35.1
+    "precio": 44.85,
+    "base": 39
   },
   {
     "codigo": "ZAX0010",
